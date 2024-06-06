@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_crypto_caller_policy">
+    <sys_kmf_crypto_caller_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <approval_type/>
+        <check_script_hash>false</check_script_hash>
+        <crypto_module display_value="instance_level_glide_encrypter">401fa53c5b6220106cdba88ddc81c754</crypto_module>
+        <crypto_spec display_value="instance_level_glide_encrypter --- Symmetric Key Wrapping/Unwrapping">9e1f293c5b6220106cdba88ddc81c797</crypto_spec>
+        <granular_operation/>
+        <identity_group_alias/>
+        <impersonation>false</impersonation>
+        <instance_recipient/>
+        <owner>7df2f1dbdbedc8d00ae3ac44d4961964</owner>
+        <policy_name>AutoGen-scope-sn_ads_setup-instance_level_glide_encrypter</policy_name>
+        <result>track</result>
+        <script_hash/>
+        <script_table/>
+        <signature_data/>
+        <specify_purpose>false</specify_purpose>
+        <sys_class_name>sys_kmf_crypto_caller_policy</sys_class_name>
+        <sys_created_by>devendher.macha@snc</sys_created_by>
+        <sys_created_on>2024-06-06 08:51:52</sys_created_on>
+        <sys_id>72e775fa1be2c610d5d520e0604bcb5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Guided Setup" source="sn_ads_setup">1cb77a801b9af01039c155f3604bcb9e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guided Setup">1cb77a801b9af01039c155f3604bcb9e</sys_scope>
+        <sys_update_name>sys_kmf_crypto_caller_policy_72e775fa1be2c610d5d520e0604bcb5a</sys_update_name>
+        <sys_updated_by>devendher.macha@snc</sys_updated_by>
+        <sys_updated_on>2024-06-06 08:51:52</sys_updated_on>
+        <target_role/>
+        <target_scope display_value="Guided Setup">1cb77a801b9af01039c155f3604bcb9e</target_scope>
+        <target_script/>
+        <type>3</type>
+        <used>false</used>
+    </sys_kmf_crypto_caller_policy>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Guided Setup">1cb77a801b9af01039c155f3604bcb9e</claim_owner_scope>
+        <claim_timestamp>18fecc020360000001</claim_timestamp>
+        <metadata_update_name>sys_kmf_crypto_caller_policy_72e775fa1be2c610d5d520e0604bcb5a</metadata_update_name>
+        <previous_claim_app_version>1.1.3</previous_claim_app_version>
+        <previous_claim_name>Guided Setup</previous_claim_name>
+        <previous_claim_scope>1cb77a801b9af01039c155f3604bcb9e</previous_claim_scope>
+        <sys_created_by>devendher.macha@snc</sys_created_by>
+        <sys_created_on>2024-06-06 08:52:45</sys_created_on>
+        <sys_id>2718b9fa1be2c610d5d520e0604bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>devendher.macha@snc</sys_updated_by>
+        <sys_updated_on>2024-06-06 08:52:45</sys_updated_on>
+    </sys_claim>
+</record_update>
